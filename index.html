@@ -6,8 +6,22 @@ title: protocol7.com
 
 <ul>
   {% for post in site.posts limit:10 %}
-    <li>
-      { post.date | date: "%-d %B %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <li>{ post.date | date: "%-d %B %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
+  
+  <div class="footer">
+    <div class="contact">
+      <strong>Niklas Gustavsson</strong><br>
+      <a href="mailto:niklas@protocol7.com">niklas@protocol7.com</a><br>
+      <a href="http://twitter.com/protocol7/">twitter.com/protocol7</a><br>
+      <a href="http://www.last.fm/user/protocol7">last.fm/user/protocol7</a><br>
+    </div>
+
+    <div class="contact">
+      <br>
+      <a href="http://github.com/protocol7/">github.com/protocol7</a><br>
+      <a href="http://flickr.com/photos/protocol7/">flickr.com/photos/protocol7</a><br>
+      <a href="http://pinboard.in/u:protocol7">pinboard.in/u:protocol7</a><br>
+    </div>
+   </div>
 </ul>
