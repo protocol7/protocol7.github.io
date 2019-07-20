@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Pain relief for Websphere message broker'
 date: 2008-05-30 15:35:42.000000000 +00:00
 type: post
 parent_id: '0'
