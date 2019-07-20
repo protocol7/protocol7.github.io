@@ -1,6 +1,6 @@
 FROM ubuntu:19.04
 
-RUN apt-get update && apt-get install -y ruby ruby-dev libffi-dev build-essential zlib1g-dev
+RUN apt-get update && apt-get install -y ruby ruby-dev libffi-dev build-essential zlib1g-dev dos2unix
 
 RUN gem install jekyll-import
 RUN gem install hpricot
