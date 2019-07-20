@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XML for <SCRIPT> Cross Platform
+title: XML for SCRIPT Cross Platform
 date: 2002-01-24 23:03:37.000000000 +00:00
 type: post
 parent_id: '0'
@@ -19,5 +19,5 @@ author:
   last_name: Gustavsson
 permalink: "/archives/2002/01/24/xml_for_script_cross_platform/"
 ---
-[XML for \<SCRIPT\> Cross Platform XML Parsing in JavaScript](http://xmljs.sourceforge.net/). Impressive!
+[XML for SCRIPT Cross Platform XML Parsing in JavaScript](http://xmljs.sourceforge.net/). Impressive!
 
