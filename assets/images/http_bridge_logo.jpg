@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="en-se" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<script>digitalData = {
+    "page": {
+        "category": {
+            "primaryCategory": "IBM_GlobalMarketing_IBMHomepage"
+        },
+        "pageInfo": {
+            "language": "en-SE",
+            "country": "SE",
+            "publisher": "IBM Corporation",
+            "version": "v18",
+            "ibm": {
+                "contentDelivery": "Drupal 8",
+                "contentProducer": "1706871 - IBM.com Global Homepage",
+                "owner": "Joan Renner/Armonk/IBM",
+                "siteID": "IBM_GlobalMarketing",
+                "contactModuleConfiguration": {
+                    "contactInformationBundleKey": {
+                        "focusArea": "Miscellaneous - About IBM",
+                        "languageCode": "en",
+                        "regionCode": "SE"
+                    },
+                    "contactModuleTranslationKey": {
+                        "languageCode": "en",
+                        "regionCode": "SE"
+                    }
+                },
+                "config": {
+                    "masthead": {
+                        "type": "default"
+                    },
+                    "footer": {
+                        "type": "default"
+                    }
+                }
+            },
+            "publishDate": "2019-07-18",
+            "effectiveDate": "2019-03-07",
+            "expiryDate": "2023-07-18"
+        }
+    }
+}</script>
+<meta name="geo.country" content="SE" />
+<meta name="title" content="IBM - Sweden" />
+<meta name="twitter:card" content="summary" />
+<link rel="canonical" href="https://www.ibm.com/se-en" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="For more than a century IBM has been dedicated to every client&#039;s success and to creating innovations that matter for the world" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.ibm.com/se-en" />
+<meta property="og:title" content="se-en_homepage" />
+<meta name="keywords" content="IBM" />
+<meta name="rights" content="© Copyright IBM Corporation 2019" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<meta property="og:image" content="https://1.www.s81c.com/common/images/ibm-leadspace-1200x627.jpg" />
+<meta property="og:locale" content="en-se" />
+<script>cpp = {"path":"\/cloud\/ajax\/product\/{product}"}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="en-us" href="https://www.ibm.com/homepage" />
+<link rel="alternate" hreflang="en-af" href="https://www.ibm.com/af-en" />
+<link rel="alternate" hreflang="fr-dz" href="https://www.ibm.com/dz-fr" />
+<link rel="alternate" hreflang="pt-ao" href="https://www.ibm.com/ao-pt" />
+<link rel="alternate" hreflang="en-ai" href="https://www.ibm.com/ai-en" />
+<link rel="alternate" hreflang="en-ag" href="https://www.ibm.com/ag-en" />
+<link rel="alternate" hreflang="es-ar" href="https://www.ibm.com/ar-es" />
+<link rel="alternate" hreflang="en-aw" href="https://www.ibm.com/aw-en" />
+<link rel="alternate" hreflang="en-au" href="https://www.ibm.com/au-en" />
+<link rel="alternate" hreflang="de-at" href="https://www.ibm.com/at-de" />
+<link rel="alternate" hreflang="en-bs" href="https://www.ibm.com/bs-en" />
+<link rel="alternate" hreflang="en-bh" href="https://www.ibm.com/bh-en" />
+<link rel="alternate" hreflang="en-bd" href="https://www.ibm.com/bd-en" />
+<link rel="alternate" hreflang="en-bb" href="https://www.ibm.com/bb-en" />
+<link rel="alternate" hreflang="en-be" href="https://www.ibm.com/be-en" />
+<link rel="alternate" hreflang="en-bm" href="https://www.ibm.com/bm-en" />
+<link rel="alternate" hreflang="es-bo" href="https://www.ibm.com/bo-es" />
+<link rel="alternate" hreflang="en-bw" href="https://www.ibm.com/bw-en" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ibm.com/br-pt" />
+<link rel="alternate" hreflang="en-vg" href="https://www.ibm.com/vg-en" />
+<link rel="alternate" hreflang="en-bn" href="https://www.ibm.com/bn-en" />
+<link rel="alternate" hreflang="en-bg" href="https://www.ibm.com/bg-en" />
+<link rel="alternate" hreflang="fr-bf" href="https://www.ibm.com/bf-fr" />
+<link rel="alternate" hreflang="en-kh" href="https://www.ibm.com/kh-en" />
+<link rel="alternate" hreflang="fr-cm" href="https://www.ibm.com/cm-fr" />
+<link rel="alternate" hreflang="en-ca" href="https://www.ibm.com/ca-en" />
+<link rel="alternate" hreflang="fr-ca" href="https://www.ibm.com/ca-fr" />
+<link rel="alternate" hreflang="en-ky" href="https://www.ibm.com/ky-en" />
+<link rel="alternate" hreflang="fr-td" href="https://www.ibm.com/td-fr" />
+<link rel="alternate" hreflang="es-cl" href="https://www.ibm.com/cl-es" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ibm.com/cn-zh" />
+<link rel="alternate" hreflang="es-co" href="https://www.ibm.com/co-es" />
+<link rel="alternate" hreflang="fr-cd" href="https://www.ibm.com/cd-fr" />
+<link rel="alternate" hreflang="fr-cg" href="https://www.ibm.com/cg-fr" />
+<link rel="alternate" hreflang="es-cr" href="https://www.ibm.com/cr-es" />
+<link rel="alternate" hreflang="en-hr" href="https://www.ibm.com/hr-en" />
+<link rel="alternate" hreflang="en-cw" href="https://www.ibm.com/cw-en" />
+<link rel="alternate" hreflang="en-cy" href="https://www.ibm.com/cy-en" />
+<link rel="alternate" hreflang="en-cz" href="https://www.ibm.com/cz-en" />
+<link rel="alternate" hreflang="en-dm" href="https://www.ibm.com/dm-en" />
+<link rel="alternate" hreflang="en-dk" href="https://www.ibm.com/dk-en" />
+<link rel="alternate" hreflang="es-ec" href="https://www.ibm.com/ec-es" />
+<link rel="alternate" hreflang="en-eg" href="https://www.ibm.com/eg-en" />
+<link rel="alternate" hreflang="en-ee" href="https://www.ibm.com/ee-en" />
+<link rel="alternate" hreflang="en-et" href="https://www.ibm.com/et-en" />
+<link rel="alternate" hreflang="en-fi" href="https://www.ibm.com/fi-en" />
+<link rel="alternate" hreflang="fr-fr" href="https://www.ibm.com/fr-fr" />
+<link rel="alternate" hreflang="fr-ga" href="https://www.ibm.com/ga-fr" />
+<link rel="alternate" hreflang="de-de" href="https://www.ibm.com/de-de" />
+<link rel="alternate" hreflang="en-gh" href="https://www.ibm.com/gh-en" />
+<link rel="alternate" hreflang="en-gr" href="https://www.ibm.com/gr-en" />
+<link rel="alternate" hreflang="en-gd" href="https://www.ibm.com/gd-en" />
+<link rel="alternate" hreflang="en-gy" href="https://www.ibm.com/gy-en" />
+<link rel="alternate" hreflang="en-hk" href="https://www.ibm.com/hk-en" />
+<link rel="alternate" hreflang="en-hu" href="https://www.ibm.com/hu-en" />
+<link rel="alternate" hreflang="en-in" href="https://www.ibm.com/in-en" />
+<link rel="alternate" hreflang="en-id" href="https://www.ibm.com/id-en" />
+<link rel="alternate" hreflang="en-iq" href="https://www.ibm.com/iq-en" />
+<link rel="alternate" hreflang="en-ie" href="https://www.ibm.com/ie-en" />
+<link rel="alternate" hreflang="en-il" href="https://www.ibm.com/il-en" />
+<link rel="alternate" hreflang="it-it" href="https://www.ibm.com/it-it" />
+<link rel="alternate" hreflang="fr-ci" href="https://www.ibm.com/ci-fr" />
+<link rel="alternate" hreflang="en-jm" href="https://www.ibm.com/jm-en" />
+<link rel="alternate" hreflang="ja-jp" href="https://www.ibm.com/jp-ja" />
+<link rel="alternate" hreflang="en-jo" href="https://www.ibm.com/jo-en" />
+<link rel="alternate" hreflang="en-kz" href="https://www.ibm.com/kz-en" />
+<link rel="alternate" hreflang="en-ke" href="https://www.ibm.com/ke-en" />
+<link rel="alternate" hreflang="ko-kr" href="https://www.ibm.com/kr-ko" />
+<link rel="alternate" hreflang="en-kw" href="https://www.ibm.com/kw-en" />
+<link rel="alternate" hreflang="en-lv" href="https://www.ibm.com/lv-en" />
+<link rel="alternate" hreflang="en-lb" href="https://www.ibm.com/lb-en" />
+<link rel="alternate" hreflang="en-ly" href="https://www.ibm.com/ly-en" />
+<link rel="alternate" hreflang="en-lt" href="https://www.ibm.com/lt-en" />
+<link rel="alternate" hreflang="fr-mg" href="https://www.ibm.com/mg-fr" />
+<link rel="alternate" hreflang="en-mw" href="https://www.ibm.com/mw-en" />
+<link rel="alternate" hreflang="en-my" href="https://www.ibm.com/my-en" />
+<link rel="alternate" hreflang="fr-mu" href="https://www.ibm.com/mu-fr" />
+<link rel="alternate" hreflang="es-mx" href="https://www.ibm.com/mx-es" />
+<link rel="alternate" hreflang="en-ms" href="https://www.ibm.com/ms-en" />
+<link rel="alternate" hreflang="fr-ma" href="https://www.ibm.com/ma-fr" />
+<link rel="alternate" hreflang="pt-mz" href="https://www.ibm.com/mz-pt" />
+<link rel="alternate" hreflang="en-na" href="https://www.ibm.com/na-en" />
+<link rel="alternate" hreflang="en-np" href="https://www.ibm.com/np-en" />
+<link rel="alternate" hreflang="en-nl" href="https://www.ibm.com/nl-en" />
+<link rel="alternate" hreflang="en-nz" href="https://www.ibm.com/nz-en" />
+<link rel="alternate" hreflang="fr-ne" href="https://www.ibm.com/ne-fr" />
+<link rel="alternate" hreflang="en-ng" href="https://www.ibm.com/ng-en" />
+<link rel="alternate" hreflang="en-no" href="https://www.ibm.com/no-en" />
+<link rel="alternate" hreflang="en-om" href="https://www.ibm.com/om-en" />
+<link rel="alternate" hreflang="en-pk" href="https://www.ibm.com/pk-en" />
+<link rel="alternate" hreflang="es-py" href="https://www.ibm.com/py-es" />
+<link rel="alternate" hreflang="es-pe" href="https://www.ibm.com/pe-es" />
+<link rel="alternate" hreflang="en-ph" href="https://www.ibm.com/ph-en" />
+<link rel="alternate" hreflang="pl-pl" href="https://www.ibm.com/pl-pl" />
+<link rel="alternate" hreflang="en-pt" href="https://www.ibm.com/pt-en" />
+<link rel="alternate" hreflang="en-qa" href="https://www.ibm.com/qa-en" />
+<link rel="alternate" hreflang="en-ro" href="https://www.ibm.com/ro-en" />
+<link rel="alternate" hreflang="ru-ru" href="https://www.ibm.com/ru-ru" />
+<link rel="alternate" hreflang="en-kn" href="https://www.ibm.com/kn-en" />
+<link rel="alternate" hreflang="en-lc" href="https://www.ibm.com/lc-en" />
+<link rel="alternate" hreflang="en-vc" href="https://www.ibm.com/vc-en" />
+<link rel="alternate" hreflang="en-sa" href="https://www.ibm.com/sa-en" />
+<link rel="alternate" hreflang="fr-sn" href="https://www.ibm.com/sn-fr" />
+<link rel="alternate" hreflang="en-rs" href="https://www.ibm.com/rs-en" />
+<link rel="alternate" hreflang="fr-sc" href="https://www.ibm.com/sc-fr" />
+<link rel="alternate" hreflang="en-sl" href="https://www.ibm.com/sl-en" />
+<link rel="alternate" hreflang="en-sg" href="https://www.ibm.com/sg-en" />
+<link rel="alternate" hreflang="en-sk" href="https://www.ibm.com/sk-en" />
+<link rel="alternate" hreflang="en-si" href="https://www.ibm.com/si-en" />
+<link rel="alternate" hreflang="en-za" href="https://www.ibm.com/za-en" />
+<link rel="alternate" hreflang="es-es" href="https://www.ibm.com/es-es" />
+<link rel="alternate" hreflang="en-lk" href="https://www.ibm.com/lk-en" />
+<link rel="alternate" hreflang="en-sr" href="https://www.ibm.com/sr-en" />
+<link rel="alternate" hreflang="en-se" href="https://www.ibm.com/se-en" />
+<link rel="alternate" hreflang="fr-ch" href="https://www.ibm.com/ch-fr" />
+<link rel="alternate" hreflang="de-ch" href="https://www.ibm.com/ch-de" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ibm.com/tw-zh" />
+<link rel="alternate" hreflang="en-tz" href="https://www.ibm.com/tz-en" />
+<link rel="alternate" hreflang="en-th" href="https://www.ibm.com/th-en" />
+<link rel="alternate" hreflang="en-tt" href="https://www.ibm.com/tt-en" />
+<link rel="alternate" hreflang="fr-tn" href="https://www.ibm.com/tn-fr" />
+<link rel="alternate" hreflang="tr-tr" href="https://www.ibm.com/tr-tr" />
+<link rel="alternate" hreflang="en-ye" href="https://www.ibm.com/ye-en" />
+<link rel="alternate" hreflang="en-tc" href="https://www.ibm.com/tc-en" />
+<link rel="alternate" hreflang="en-ua" href="https://www.ibm.com/ua-en" />
+<link rel="alternate" hreflang="en-ug" href="https://www.ibm.com/ug-en" />
+<link rel="alternate" hreflang="en-ae" href="https://www.ibm.com/ae-en" />
+<link rel="alternate" hreflang="en-gb" href="https://www.ibm.com/uk-en" />
+<link rel="alternate" hreflang="es-uy" href="https://www.ibm.com/uy-es" />
+<link rel="alternate" hreflang="en-uz" href="https://www.ibm.com/uz-en" />
+<link rel="alternate" hreflang="es-ve" href="https://www.ibm.com/ve-es" />
+<link rel="alternate" hreflang="en-vn" href="https://www.ibm.com/vn-en" />
+<link rel="alternate" hreflang="en-zm" href="https://www.ibm.com/zm-en" />
+<link rel="alternate" hreflang="en-zw" href="https://www.ibm.com/zw-en" />
+<link rel="shortcut icon" href="//www.ibm.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="/se-en" />
+
+    <title>IBM - Sweden</title>
+    <link rel='dns-prefetch' href='//1.www.s81c.com' />
+<link rel='preconnect' href='//1.www.s81c.com' />
+    <link href="//1.www.s81c.com/common/v18/css/www.css" rel="preload" as="style"  />
+    <link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/www.css" media="all" />
+<link href="//1.www.s81c.com/common/v18/css/grid-fluid.css" rel="preload" as="style"  />
+<link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/grid-fluid.css" media="all" />
+<link href="//1.www.s81c.com/common/v18/css/tables.css" rel="preload" as="style"  />
+<link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/tables.css" media="all" />
+    <link rel="stylesheet" href="//1.cms.s81c.com/sites/default/files/css/css_HdB1O1n6Q1UM2SAUFMoZK16gTJVOuR8-BVZoLXvLQ3I.css?puxno1" media="all" />
+<link rel="stylesheet" href="//1.www.s81c.com/common/v18/css/forms.css" media="all" />
+<link rel="stylesheet" href="//1.cms.s81c.com/sites/default/files/css/css_PhqA7Hw7VG3xDsVK0b-asWuYLs5R52ov1TVSOcBIxlU.css?puxno1" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_lqHiCOuOcUW0gjJm1CLoU2gtO_JODp7xDLp4lAqO6Vo.js"></script>
+<![endif]-->
+<script src="//1.cms.s81c.com/sites/default/files/js/js_2MaHvduQMY5hz7cqy9JvqV2FJV7tqpaVAHahYFcV8Vo.js"></script>
+<script src="//1.www.s81c.com/common/stats/ida_stats.js" async></script>
+<script src="//1.www.s81c.com/common/v18/js/www.js" defer></script>
+<script src="//1.www.s81c.com/common/v18/js/tables.js" defer></script>
+<script src="//1.www.s81c.com/common/js/tactic.js" defer></script>
+<script src="//1.www.s81c.com/common/js/tacticbindlinks.js" defer></script>
+<script src="//1.www.s81c.com/common/v18/js/forms.js" defer></script>
+
+  </head>
+  <body id="ibm-com"  uuid="6060f555-83a2-48be-843c-5b468bd3b4da" class="path-node page-node-type-ibm-com-global-homepage ibm-type">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<div id="ibm-top">
+    <div class="region region-masthead">
+    
+
+    
+  
+
+<div id="ibm-masthead" role="banner" aria-label="IBM" data-mhtype="alternate" class="simple  ibm-mhtype-alternate">
+  <div id="ibm-universal-nav">
+    <nav role="navigation" aria-label="IBM">
+      <div id="ibm-home"><a href="https://www.ibm.com/se/en">IBM®</a></div>
+
+        
+              <ul aria-label="" role="toolbar" class="ibm-masthead-categories">
+
+              </ul>
+      
+      <ul id="ibm-menu-links" role="toolbar" aria-label="Site map">
+        <li><a href="https://www.ibm.com/sitemap/se/en">Site map</a></li>
+      </ul>
+    </nav>
+
+          <div id="ibm-search-module" role="search" aria-labelledby="ibm-masthead">
+        <form id="ibm-search-form" action="https://www.ibm.com/Search/" method="get">
+          <p>
+            <label for="q">IBM</label>
+            <input type="text" maxlength="100" value="" placeholder="Search" name="q" id="q" aria-label="Search"/>
+            <input type="hidden" value="18" name="v"/>
+            <input type="hidden" value="utf" name="en"/>
+            <input type="hidden" value="en" name="lang"/>
+            <input type="hidden" value="se" name="cc"/>
+            <input type="submit" id="ibm-search" class="ibm-btn-search" value="Submit"/>
+          </p>
+        </form>
+      </div>
+    
+
+  </div> 
+  </div>
+
+  </div>
+
+    <div id="ibm-content-wrapper">
+        
+
+<header role="banner" aria-labelledby="ibm-pagetitle-h1">
+      
+<div id="ibm-leadspace-head" class="ibm-background-black-core ibm-hidden-bg-small" style="background:url(https://1.dam.s81c.com/m/28e39cb1bab7c561/original/ibm-redhat-leadspace-2000x500.png) center center/cover no-repeat #000;border:none">
+
+
+  <div id="ibm-leadspace-body" class="ibm-padding-top-r2 ibm-padding-bottom-r2" style="width:100%">
+
+    <div class="ibm-fluid ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">
+    <div class="ibm-col-small-12-12">
+            <p>
+        <img src="https://1.dam.s81c.com/m/28e39cb1bab7c561/original/ibm-redhat-leadspace-2000x500.png" alt="IBM | Red Hat" class="ibm-resize">
+      </p>
+          </div>
+  </div>
+  
+  <div class="ibm-fluid ">
+    <div class="ibm-col-12-5 ibm-col-medium-12-7 ibm-col-small-12-12">
+
+              <h1 id="ibm-pagetitle-h1" class="ibm-h1 ibm-hidden-small     ibm-textcolor-white-core
+">
+    The acquisition is closed, but the future is open
+</h1>
+        <h1 id="ibm-pagetitle-h1" class="ibm-h1 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge     ibm-textcolor-white-core
+">
+    The acquisition is closed, but the future is open
+</h1>
+      
+              <p class=" ibm-hidden-small    ibm-textcolor-white-core
+">
+  You know Red Hat as independent, neutral and open — and IBM is committed to keeping it that way
+</p>
+        <p class=" ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge    ibm-textcolor-white-core
+">
+  You know Red Hat as independent, neutral and open — and IBM is committed to keeping it that way
+</p>
+      
+      <div class="ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">
+        <p>
+                      <a class="     ibm-textcolor-white-core
+" href="http://ibm.com/cloud/redhat">
+    <span>See what this means for you&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+                  </p>
+
+        <p class="ibm-padding-bottom-0">
+                                    <p>
+<a data-showvideoduration="false"  
+     data-widget="videoplayer" data-videodisplay="overlay" 
+	   data-videoid="TfCgGpyVnCc" data-videotype="youtube"
+	   class="ibm-video-player-con     ibm-textcolor-white-core
+" href="#"><span>Watch the video&nbsp;</span><span class="ibm-icon-nolink   ibm-play-link
+ "  style="padding-left: 0!important;" ></span></a></p>
+                              </p>
+      </div>
+      <div class="ibm-hidden-small">
+        <p>
+                      <a class="     ibm-textcolor-white-core
+" href="http://ibm.com/cloud/redhat">
+    <span>See what this means for you&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+                  </p>
+        <p class="ibm-padding-bottom-0">
+                                    <p>
+<a data-showvideoduration="false"  
+     data-widget="videoplayer" data-videodisplay="overlay" 
+	   data-videoid="TfCgGpyVnCc" data-videotype="youtube"
+	   class="ibm-video-player-con     ibm-textcolor-white-core
+" href="#"><span>Watch the video&nbsp;</span><span class="ibm-icon-nolink   ibm-play-link
+ "  style="padding-left: 0!important;" ></span></a></p>
+                              </p>
+      </div>
+    </div>
+
+    
+    </div>
+  </div>
+  </div>
+</div>
+</header>
+<main role="main" aria-labelledby="ibm-pagetitle-h1">
+  <div id="ibm-pcon">
+    <div id="ibm-content">
+      <div id="ibm-content-body" class="ibm-padding-top-0">
+        <div id="ibm-content-main">
+                    
+                                                                                                                      		    <div id="news-at-ibm" class="ibm-band ibm-nospacing ibm-background-white-core">
+    <div class="ibm-fluid ibm-padding-top-3 ibm-padding-bottom-1">
+	   	<div class="ibm-col-12-12">
+	    	<h2 class="ibm-h2">Inside IBM</h2>
+	  	</div>
+		</div>
+		<div class="ibm-fluid ibm-padding-bottom-3" data-widget="setsameheight" 
+		data-items=".ibm-card" data-always="true">
+							<div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/se-en/events/think-summit/">
+		<div class="ibm-card ibm-card--noborder ibm_cci-same-height" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">think Summit </p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/4c38375ac2ddba79/original/this-week-at-ibm-thin-digital-20190708.jpg" width="300" height="170" alt="Think"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Discover how to apply new technologies for an Ongoing Business Transformation</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Join us on October 3rd, in Stockholm&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>							<div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://youtu.be/JGnB7WnK9js">
+		<div class="ibm-card ibm-card--noborder ibm_cci-same-height" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">Multi-Cloud is a Reality</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+				        	    
+<a data-widget="videoplayer" 
+  data-showimageplaybutton="true"
+      data-videodisplay="overlay"
+    data-videoid="JGnB7WnK9js" 
+  data-showvideoduration="false"
+   
+    data-overlayplayersize="xlarge"
+   
+  data-videotype="youtube" 
+  href="https://www.youtube.com/watch?v=JGnB7WnK9js"
+  class="ibm-video-player-con ibm-video-placeholder " 
+  aria-label="youtube - A Multicloud Environment is the New Reality">
+            <img class="ibm-resize"
+      src="https://1.dam.s81c.com/m/4daaa022a14920b9/LowRes_Original-crossroads.jpg"
+      alt="youtube -  A Multicloud Environment is the New Reality"
+      width="300"
+      height="170">
+    
+</a>
+							</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>98% of organizations surveyed in an IBM Study plan to use multiple hybrid clouds by 2021.</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+								<a href="https://youtu.be/JGnB7WnK9js">
+						<p class="ibm-padding-bottom-0">
+							<span class="ibm-textcolor-systems-blue-5">		
+								<span>Learn about IBM Services for Multicloud&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>							</span>
+						</p>
+					</a>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>							<div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/cloud/se-en/yourcloud/">
+		<div class="ibm-card ibm-card--noborder ibm_cci-same-height" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">Expect more flexibility</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/768491d4d03434e7/original/04222018-f-the-tech-i-want-cloud-gina-21687-444x320.jpg" width="300" height="170" alt="Explore a faster, more secure journey to cloud"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Explore a faster, more secure journey to cloud</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Learn more &nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>							<div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://ibm.biz/BdzZQv">
+		<div class="ibm-card ibm-card--noborder ibm_cci-same-height" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">IBM Industrial</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://www.ibm.com/marketing/images/ibv.jpg" width="300" height="170" alt="Robotic hand shaking human hand"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Learn how to unite industry, technology and human potential</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Get inspired. Get Industrious&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>					</div>
+	</div>
+                                                            <div id="products-services" class="ibm-band ibm-padding-top-3 ibm-padding-bottom-3 ibm-background-neutral-white-20">
+    
+<div class="ibm-fluid ibm-padding-bottom-2"> 
+  <div class="ibm-col-12-12">
+    <h2 class="ibm-h2">Find products and services in the IBM Marketplace</h2>
+  </div>
+</div>
+<div class="ibm-fluid ibm-padding-bottom-3">
+  <div class="ibm-col-12-6 ibm-col-medium-12-12">
+    <div class="ibm-gmktp-search ">
+            <form class="ibm-gmktp-search-form ibm-row-form" data_link_href="https://www.ibm.com/search?lang=en&amp;cc=se&amp;q=" data-drupal-selector="ibm-gmktp-search-form" action="/se-en" method="post" id="ibm-gmktp-search-form" accept-charset="UTF-8">
+  
+<form  class="ibm-gmktp-search-form ibm-row-form" data_link_href="https://www.ibm.com/search?lang=en&amp;cc=se&amp;q=" data-drupal-selector="ibm-gmktp-search-form">
+  <p class="ibm-padding-bottom-0">
+    <label for="gmktp" style="display: none;">Search term</label>
+    <span style="display: block;">
+      <div class="js-form-item form-item js-form-type-textfield form-item-ibm-gmktp-input js-form-item-ibm-gmktp-input form-no-label">
+        <input id="ibm-gmktp-input" placeholder="Search IBM Marketplace" style="width: 100%;" data-drupal-selector="edit-ibm-gmktp-input" type="text" name="ibm_gmktp_input" value="" size="60" maxlength="128" class="form-text" />
+
+        </div>
+
+    </span>
+  </p>
+  <a href="https://www.ibm.com/search?lang=en&amp;amp;cc=se&amp;amp;q=" id="ibm-gmktp-search-bttn" class="ibm-search-link"><span>Search Marketplace</span></a>
+  <div class="ibm-spinner" style="display: none;"></div>
+  
+  <input autocomplete="off" data-drupal-selector="form-3fuihyrvqwr3jmjbobnhzo5egpseo-royrl9zlazq48" type="hidden" name="form_build_id" value="form-3FuIhyrVqWR3jMjBobNHZo5EgpseO-rOYRl9ZlAzQ48" />
+
+  <input data-drupal-selector="edit-ibm-gmktp-search-form" type="hidden" name="form_id" value="ibm_gmktp_search_form" />
+
+</form>
+<div id="ibm-gmktp-output-container">
+  <ul class="ibm-plain-list ibm-padding-bottom-0 output" id="ibm-gmktp-output" role="listbox" aria-live="polite" aria-label="Use down and up arrow keys to navigate through the results."></ul>
+</div>
+
+</form>
+
+    </div>
+  </div>
+  <div class="ibm-col-12-6 ">
+    <p class="ibm-hidden-medium ibm-hidden-small" style="padding-top: 8px;">
+            <a href="https://www.ibm.com/se-en/products" class="ibm-textcolor-systems-blue-5">
+        <span>See more products&nbsp;</span>
+        
+
+
+	
+	<span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span>
+      </a>
+    </p>
+    <p class="ibm-hidden-large ibm-hidden-xlarge ibm-padding-top-2 ibm-padding-bottom-0">
+      <a href="https://www.ibm.com/marketplace/api/search/v3/combined_suggestions?locale=en-us&amp;q=" class="ibm-textcolor-systems-blue-5">
+        <span>See more products&nbsp;</span>
+        
+
+
+	
+	<span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span>
+      </a>
+    </p>
+  </div>
+</div>
+  <div class="ibm-fluid ibm-padding-bottom-0">
+              <div class="ibm-col-12-9 ibm-col-medium-12-12">
+      <div class="ibm-fluid">
+                  <div class="ibm-col-12-12 ibm-padding-bottom-2 ibm-hidden-small ibm-hidden-medium">
+            <p class="ibm-bold">Technologies</p>
+            <div class="ibm-fluid">
+                              <div class="ibm-col-12-4">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/analytics">
+    <span>Analytics&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/cloud-computing">
+    <span>Cloud computing&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/mobile-technology">
+    <span>Mobile technology&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/cognitive-computing-and-AI">
+    <span>Artificial intelligence&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/IT-infrastructure">
+    <span>IT infrastructure&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/security">
+    <span>Security&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/blockchain">
+    <span>Blockchain&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/IT-management">
+    <span>IT management&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/software-development">
+    <span>Software development&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                          </div>
+          </div>
+          <div class="ibm-col-12-12 ibm-col-medium-12-6 ibm-col-small-12-6 ibm-padding-bottom-2 ibm-hidden-large ibm-hidden-xlarge">
+            <p class="ibm-bold">Technologies</p>
+            <div class="ibm-fluid">
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/analytics">
+    <span>Analytics&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/cloud-computing">
+    <span>Cloud computing&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/mobile-technology">
+    <span>Mobile technology&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/cognitive-computing-and-AI">
+    <span>Artificial intelligence&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/IT-infrastructure">
+    <span>IT infrastructure&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/security">
+    <span>Security&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/blockchain">
+    <span>Blockchain&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/IT-management">
+    <span>IT management&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/technology/software-development">
+    <span>Software development&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                          </div>
+          </div>
+                          <div class="ibm-col-12-12 ibm-col-medium-12-6 ibm-col-small-12-6">
+            <p class="ibm-bold">Business needs</p>
+            <div class="ibm-fluid">
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/business-operations">
+    <span>Business operations&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/content-management">
+    <span>Content management&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/human-resources">
+    <span>Human resources&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/collaboration">
+    <span>Collaboration&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/customer-service-and-CRM">
+    <span>Customer service and CRM&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/marketing">
+    <span>Marketing and sales&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                              <div class="ibm-col-12-4 ibm-col-medium-12-12">
+                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/commerce">
+    <span>Commerce&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/finance">
+    <span>Finance&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                      <p>
+    <a class="     ibm-textcolor-systems-blue-5
+" href="//www.ibm.com/se-en/products/category/business/supply-chain-management">
+    <span>Supply chain management&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+</p>                                  </div>
+                          </div>
+          </div>
+              </div>
+    </div>
+      </div>
+</div>
+                                                            
+          <div id="explore-trials" class="ibm-band ibm-nospacing ibm-background-neutral-white-30">
+    <div class="ibm-fluid ibm-padding-top-3 ibm-padding-bottom-2">
+      <div class="ibm-col-12-12">
+        <h2 class="ibm-h2 ibm-padding-bottom-1">Explore product trials and offers</h2>
+        <p>
+          <a class="     ibm-textcolor-systems-blue-5
+" href="https://www.ibm.com/se-en/marketplace/collections/offers-and-discounts/?link=sehpv18t5&amp;lnk2=trial_mktpl_MPDISC">
+    <span>View more offers&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+        </p>
+      </div>
+    </div>
+    <div class="ibm-fluid ibm-padding-bottom-3 ibm-widget-processed ibm-sameheight-processed" 
+    data-widget="setsameheight" 
+    data-items=".ibm-card" data-always="true">
+          <div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/se-en/security/mobile/maas360?lnk=STW_SE_HPT_T1_BLK&amp;lnk2=trial_MaaS360Wat&amp;psrc=none&amp;pexp=def">
+		<div class="ibm-card ibm-card--noborder ibm-background-neutral-white-30" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">IBM MaaS360 with Watson</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/2a9fc7a16294ae54/original/Maas360-w-Watson-434x259.png" width="300" height="170" alt="IBM MaaS360 with Watson trial screenshot"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Use AI to enable your devices, users, apps, content and data</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Start your free trial&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>          <div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/se-en/products/spss-modeler?lnk=STW_SE_HPT_T2_BLK&amp;lnk2=trial_SPSSMod&amp;psrc=none&amp;pexp=def">
+		<div class="ibm-card ibm-card--noborder ibm-background-neutral-white-30" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">IBM SPSS Modeler</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/3bc2d29618e85bde/original/SPSS-Modeler-434x259.png" width="300" height="170" alt="IBM SPSS Modeler screenshot"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Get quick access to predictive analytics with a flexible subscription</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Start your free trial&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>          <div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/se-en/products/cognos-analytics?lnk=STW_SE_HPT_T3_BLK&amp;lnk2=trial_CogAnalytics&amp;psrc=none&amp;pexp=def">
+		<div class="ibm-card ibm-card--noborder ibm-background-neutral-white-30" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">IBM Cognos Analytics</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/312749fc346815ed/original/Cognos-Analytics-434x259.png" width="300" height="170" alt="IBM Cognos Analytics screenshot"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Unearth hidden insights with personalized analytics driven by AI</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Get started free&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>          <div class="ibm-col-12-3 ibm-col-medium-12-6 ">
+	<a class="ibm-blocklink ibm-no-border" href="https://www.ibm.com/se-en/products/blueworkslive?lnk=STW_SE_HPT_T4_BLK&amp;lnk2=trial_BluLive&amp;psrc=none&amp;pexp=def">
+		<div class="ibm-card ibm-card--noborder ibm-background-neutral-white-30" style="">
+			<div class="ibm-card__heading ibm-nospacing">
+				<p class="ibm-padding-bottom-1 ibm-item-note-alternate">IBM Blueworks Live</p>
+			</div>
+			<div class="ibm-card__image ibm-padding-bottom-1">
+									<img class="ibm-resize ibm-flex" src="https://1.dam.s81c.com/m/08d832ba3aa4db1a/original/Blueworks-Live.png" width="300" height="170" alt="IBM Blueworks Live screenshot"/>
+		  				</div>
+			<div class="ibm-card__content ibm-nospacing">
+				<p>Automate and manage business processes in a simple, collaborative way</p>
+			</div>
+			<div class="ibm-card__bottom ibm-nospacing">
+							<p class="ibm-padding-bottom-0">
+					<span class="ibm-textcolor-systems-blue-5">		
+					<span>Start your free trial&nbsp;</span><span class="ibm-icon-nolink ibm-forward-link"  style="padding-left: 2.1em !important;" ></span>					</span>
+				</p>
+							</div>
+		</div>
+	</a>
+</div>
+<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge">&nbsp;</div>        </div>
+  </div>
+                                                            <div id="join-ibm" class="ibm-band ibm-nospacing ibm-background-white-core">
+  <div class="ibm-fluid ibm-padding-top-3 ibm-padding-bottom-3">
+    <div class="ibm-col-12-4 ibm-col-medium-12-6 ibm-col-small-12-12 ">
+	  	<h4 class="ibm-h4 ibm-bold ibm-padding-bottom-0">Join IBM and do your best work ever</h4>
+		</div>
+		<div class="ibm-col-12-8 ibm-col-medium-12-6 ibm-hidden-small ">
+		  <p class="ibm-padding-bottom-0">
+				<a class="ibm-h4     ibm-textcolor-systems-blue-5
+" href="https://www.ibm.com/employment/">
+    <span>Visit IBM Global Careers&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 2.1em !important;" ></span></a>
+		  </p>
+		</div>
+		<div class="ibm-col-small-12-12 ibm-hidden-medium ibm-hidden-large ibm-hidden-xlarge ">
+		  <p class="ibm-padding-top-1 bm-padding-bottom-0">
+			  <a class="ibm-h4     ibm-textcolor-systems-blue-5
+" href="https://www.ibm.com/employment/">
+    <span>Visit IBM Global Careers&nbsp;</span><span class="ibm-icon-nolink   ibm-forward-link
+ "  style="padding-left: 0!important;" ></span></a>
+		  </p>
+		</div>
+	</div>
+</div>
+                                                                                          </div>
+      </div>
+    </div>
+  </div>
+</main>
+  </div>
+      <footer role="contentinfo" aria-label="IBM">
+        <div class="region region-footer">
+    
+
+<div id="ibm-footer-module">
+    <section role="region" aria-label="Resources">
+
+            <div class="ibm-columns">
+              </div>
+      
+        
+    </section>
+
+</div>
+
+
+<div id="ibm-footer">
+
+    <div class="ibm-columns">
+      <div class="ibm-col-1-1">
+                  <div class="ibm-footer-corporate-links">
+            <ul>
+                            <li id="ibm-truste-cp">
+                <a href="#" onclick="truste.eu.clickListener();return false;">Cookie preferences</a>
+              </li>
+            </ul>
+          </div>
+        
+                </div>
+    </div>
+
+</div>
+
+  </div>
+
+    </footer>
+  </div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"se-en\/","currentPath":"node\/1706871","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en-se"},"pluralDelimiter":"\u0003","locale_object":{"country":"se","language":"en"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"4b97807887c28bb407ad498c35c7228ffcf9b57480396a28cf2af316345a455f"}}</script>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_UnM4NV4H_TaXe4Ulo9BqxxRXCznXhNvMTCW_RwyvyvU.js"></script>
+<script src="//www.ibm.com/common/digitaladvisor/cm-app/latest/cm-app.min.js" defer></script>
+<script src="//1.cms.s81c.com/sites/default/files/js/js_njJOeqdsuo9t4oJ_c98qm9bVYsYFt6Gw870q-WxGaA8.js"></script>
+
+      </body>
+</html>
