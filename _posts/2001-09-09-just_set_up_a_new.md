@@ -11,7 +11,12 @@ categories: []
 tags:
 - Uncategorized
 meta: {}
-author: niklas
+author:
+  login: niklas
+  email: niklas@protocol7.com
+  display_name: Niklas
+  first_name: Niklas
+  last_name: Gustavsson
 permalink: "/archives/2001/09/09/just_set_up_a_new/"
 ---
 Just set up a new [blog](http://www.blogger.com) so that we can post our weblog here on protocol7.
