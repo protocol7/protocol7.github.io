@@ -24,7 +24,9 @@ author:
   last_name: Gustavsson
 permalink: "/archives/2011/01/09/introducing-apache-vysper/"
 ---
-![Vysper logo]({{ site.baseurl }}/assets/images/vysper_logo.png) This is the first in a series of posts I'm planning to do on [Apache Vysper](http://mina.apache.org/vysper/). This first post will mostly deal with what Vysper is, later posts will go into details on various ways of using Vysper.
+![Vysper logo](https://mina.apache.org/staticresources/images/header-vysper.png)
+
+This is the first in a series of posts I'm planning to do on [Apache Vysper](http://mina.apache.org/vysper/). This first post will mostly deal with what Vysper is, later posts will go into details on various ways of using Vysper.
 
 Vysper is an implementation of an [XMPP](http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol) (aka Jabber) server in Java. Vysper is a subproject of Apache MINA and is licensed under Apache License, Version 2.0. Vysper aims to run both standalone as well as embedded into your application. When running embedded, you can closely integrate your application with Vysper, e.g. to share user management or session state. Vysper is still in the early stages, but is certainly usable for early adopters. The currently released version is 0.6, but the example below is based on [SVN trunk](http://svn.apache.org/repos/asf/mina/vysper/trunk/), which will in the near future become 0.7.
 
@@ -39,7 +41,22 @@ Enough theory, let's look at an example. The code below shows the basics of runn
 To get going, you need to download Vysper, in this case from SVN and build it using Maven (these instructions will be updated when Vysper 0.7 is released). The code below will work on 0.6 with some slight modifications. If building from source sounds intimidating, I've set up this example as [a project on Github](https://github.com/protocol7/vysper-intro), where you can also find archive downloads of the sample with the required dependencies.
 
 ```
-XMPPServer server = new XMPPServer("vysper.org");  StorageProviderRegistry providerRegistry = new MemoryStorageProviderRegistry();  AccountManagement accountManagement = (AccountManagement) providerRegistry.retrieve(AccountManagement.class);  Entity user = EntityImpl.parseUnchecked("user@vysper.org"); accountManagement.addUser(user, "password");  server.setStorageProviderRegistry(providerRegistry);  server.addEndpoint(new TCPEndpoint());  server.setTLSCertificateInfo(new File("keystore.jks"), "sekrit");  server.start(); System.out.println("Vysper server is running...");  server.addModule(new EntityTimeModule()); server.addModule(new VcardTempModule()); server.addModule(new XmppPingModule()); server.addModule(new PrivateDataModule());
+XMPPServer server = new XMPPServer("vysper.org");
+
+StorageProviderRegistry providerRegistry = new MemoryStorageProviderRegistry();
+AccountManagement accountManagement = (AccountManagement) providerRegistry.retrieve(AccountManagement.class);
+Entity user = EntityImpl.parseUnchecked("user@vysper.org");
+accountManagement.addUser(user, "password");
+
+server.setStorageProviderRegistry(providerRegistry);
+server.addEndpoint(new TCPEndpoint());
+server.setTLSCertificateInfo(new File("keystore.jks"), "sekrit");
+server.start();
+System.out.println("Vysper server is running...");
+server.addModule(new EntityTimeModule());
+server.addModule(new VcardTempModule());
+server.addModule(new XmppPingModule());
+server.addModule(new PrivateDataModule());
 ```
 
 Number below refer to code lines in the example above.  
