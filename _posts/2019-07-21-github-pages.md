@@ -5,7 +5,6 @@ date: 2019-07-21 22:04:27.000000000 +00:00
 type: post
 published: true
 status: publish
-categories: []
 author:
   login: niklas
   email: niklas@protocol7.com
